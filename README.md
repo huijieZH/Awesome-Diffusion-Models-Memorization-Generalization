@@ -19,7 +19,7 @@
 
 # Papers
 
-## Position \[[BibTex](bib/position.bib)\]
+## Position \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/position.bib)\]
 
 [Mar 2025] [Generalization of Diffusion Models: Principles, Theory, and Implications](https://www.siam.org/publications/siam-news/articles/generalization-of-diffusion-models-principles-theory-and-implications/) (SIAM News 2025)
 
