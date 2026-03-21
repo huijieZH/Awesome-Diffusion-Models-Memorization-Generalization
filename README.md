@@ -19,7 +19,7 @@
 
 # Papers
 
-## Position
+## Position \[[BibTex](bib/position.bib)\]
 
 [Mar 2025] [Generalization of Diffusion Models: Principles, Theory, and Implications](https://www.siam.org/publications/siam-news/articles/generalization-of-diffusion-models-principles-theory-and-implications/) (SIAM News 2025)
 
@@ -78,6 +78,8 @@
 [May 2023] [On the Generalization of Diffusion Model](https://arxiv.org/abs/2305.14712)
 
 [Jun 2024] [Understanding Hallucinations in Diffusion Models through Mode Interpolation](https://arxiv.org/abs/2406.09358) (NeurIPS 2024)
+
+[Oct 2024] [On Inductive Biases That Enable Generalization of Diffusion Transformers](https://arxiv.org/abs/2410.21273) (NeurIPS 2025)
 
 ### Low-dimensional Structure
 
