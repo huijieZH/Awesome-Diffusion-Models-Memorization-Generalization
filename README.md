@@ -93,11 +93,17 @@
 
 [Jan 2025] [Low-Dimensional Adaptation of Diffusion Models: Convergence in Total Variation](https://arxiv.org/abs/2501.12982) (COLT 2025)
 
+[Apr 2025] [Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures](https://arxiv.org/abs/2504.05300)
+
+[May 2025] [Localized Diffusion Models](https://arxiv.org/abs/2505.04417)
+
 [Jun 2025] [On Convolutions, Intrinsic Dimension, and Diffusion Models](https://arxiv.org/abs/2506.20705) (TMLR 2025)
 
 [Oct 2025] [Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is Geometry Adaptive](https://arxiv.org/abs/2510.02305) (NeurIPS 2025)
 
 [Jan 2026] [Multi-Subspace Multi-Modal Modeling for Diffusion Models: Estimation, Convergence and Mixture of Experts](https://arxiv.org/abs/2601.01475) (ICLR 2026)
+
+[Feb 2026] [Adaptation to Intrinsic Dependence in Diffusion Language Models](https://arxiv.org/abs/2602.20126)
 
 [Mar 2026] [Generalization Properties of Score-Matching Diffusion Models for Intrinsically Low-Dimensional Data](https://arxiv.org/abs/2603.03700)
 
@@ -129,8 +135,6 @@
 
 [Oct 2025] [Selective Underfitting in Diffusion Models](https://arxiv.org/abs/2510.01378)
 
-[Feb 2026] [Diffusion Model's Generalization Can be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold](https://arxiv.org/abs/2602.06021)
-
 
 ### Distribution Learning Theory
 
@@ -146,19 +150,21 @@
 
 [Apr 2024] [Learning Mixtures of Gaussians Using Diffusion Models](https://arxiv.org/abs/2404.18869)
 
-[Jun 2024] [Evaluating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2406.12839) (NeurIPS 2024)
-
 [Aug 2024] [A Sharp Convergence Theory for the Probability Flow ODEs of Diffusion Models](https://arxiv.org/abs/2408.02320)
 
 [Feb 2025] [Generalization Error Bound for Denoising Score Matching under Relaxed Manifold Assumption](https://arxiv.org/abs/2502.13662) (COLT 2025)
 
 [Oct 2025] [Optimal Estimation of a Factorizable Density using Diffusion Models with ReLU Neural Networks](https://arxiv.org/abs/2510.03994)
 
+[Mar 2025] [Minimax Optimality of the Probability Flow ODE for Diffusion Models](https://arxiv.org/abs/2503.09583)
+
 [Mar 2026] [A Theory of Learning Data Statistics in Diffusion Models, from Easy to Hard](https://arxiv.org/abs/2603.12901)
 
 ### Learning Dynamics
 
 [Jan 2024] [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://arxiv.org/abs/2401.15604) (ICLR 2024)
+
+[Jun 2024] [Evaluating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2406.12839) (NeurIPS 2024)
 
 [Feb 2025] [Denoising Score Matching with Random Features: Insights on Diffusion Models from Precise Learning Curves](https://arxiv.org/abs/2502.00336) (AISTATS 2026)
 
@@ -169,6 +175,10 @@
 [May 2025] [Why Diffusion Models Don't Memorize: The Role of Implicit Dynamical Regularization in Training](https://arxiv.org/abs/2505.17638) (NeurIPS 2025)
 
 [Jul 2025] [Implicit Regularisation in Diffusion Models: An Algorithm-Dependent Generalisation Analysis](https://arxiv.org/abs/2507.03756) (ICLR 2026)
+
+[Nov 2025] [Convergence Dynamics of Over-Parameterized Score Matching for a Single Gaussian](https://arxiv.org/abs/2511.22069) (ICLR 2026)
+
+[Feb 2026] [Diffusion Model's Generalization Can be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold](https://arxiv.org/abs/2602.06021) 
 
 ### Compositional Ability
 
