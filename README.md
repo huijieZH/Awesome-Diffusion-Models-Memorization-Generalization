@@ -19,7 +19,7 @@
 
 # Papers
 
-## Position
+## Position \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/position.bib)\]
 
 [Mar 2025] [Generalization of Diffusion Models: Principles, Theory, and Implications](https://www.siam.org/publications/siam-news/articles/generalization-of-diffusion-models-principles-theory-and-implications/) (SIAM News 2025) <details><summary>[BibTex]</summary>
 
@@ -34,7 +34,7 @@
 
 </details>
 
-## Memorization to Generalization 
+## Memorization to Generalization \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/memorization_to_generalization.bib)\]
 
 [Jun 2023] [Diffusion Probabilistic Models Generalize when They Fail to Memorize](https://openreview.net/forum?id=shciCbSk9h#all) (ICMLW 2023) <details><summary>[BibTex]</summary>
 
@@ -982,7 +982,7 @@ url={https://openreview.net/forum?id=wG12xUSqrI}
 
 </details>
 
-### Learning Dynamics
+### Learning Dynamics \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/learning_dynamics.bib)\]
 
 [Jan 2024] [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://arxiv.org/abs/2401.15604) (ICLR 2024) <details><summary>[BibTex]</summary>
 
@@ -1150,7 +1150,7 @@ he2026diffusion,
 
 </details>
 
-### Compositional Ability
+### Compositional Ability \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/compositional_ability.bib)\]
 
 [Oct 2023] [Compositional Abilities Emerge Multiplicatively: Exploring Diffusion Models on a Synthetic Task](https://arxiv.org/abs/2310.09336) (NeurIPS 2023) <details><summary>[BibTex]</summary>
 
@@ -1212,7 +1212,7 @@ url={https://openreview.net/forum?id=EgH5WYB6my}
 
 </details>
 
-### Sparse Autoencoder
+### Sparse Autoencoder \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/sparse_autoencoder.bib)\]
 
 [Apr 2025] [Emergence and Evolution of Interpretable Concepts in Diffusion Models](https://arxiv.org/abs/2504.15473) (NeurIPS 2025) <details><summary>[BibTex]</summary>
 
@@ -1229,7 +1229,7 @@ url={https://openreview.net/forum?id=C7LxkebvVW}
 
 </details>
 
-## Memorization
+## Memorization \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/memorization.bib)\]
 
 [Dec 2022] [Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models](https://arxiv.org/abs/2212.03860) (CVPR 2023) <details><summary>[BibTex]</summary>
 
