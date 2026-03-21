@@ -3,7 +3,7 @@
 
 ## Contents
 - [Position](#position)
-- [Memorization to Generlization](#memorization-to-generlization)
+- [Memorization to Generalization](#memorization-to-generalization)
 - [Generalization](#generalization)
   - [Empirical Observation](#empirical-observation)
   - [Low-dimensional Structure](#low-dimensional-structure)
@@ -15,7 +15,7 @@
   - [Sparse Autoencoder](#sparse-autoencoder)
 - [Memorization](#memorization)
 
-> This is a non-exhaustive list of papers. If your paper belongs to this list, please send an email to deepthinkumich@gmail.com.
+> This is a non-exhaustive list of papers. If your paper should be included, please email deepthinkumich@gmail.com.
 
 # Papers
 
@@ -23,7 +23,7 @@
 
 [Mar 2025] [Generalization of Diffusion Models: Principles, Theory, and Implications](https://www.siam.org/publications/siam-news/articles/generalization-of-diffusion-models-principles-theory-and-implications/) (SIAM News 2025)
 
-## Memorization to Generlization
+## Memorization to Generalization
 
 [Jun 2023] [Diffusion Probabilistic Models Generalize when They Fail to Memorize](https://openreview.net/forum?id=shciCbSk9h#all) (ICMLW 2023) 
 
@@ -49,7 +49,7 @@
 
 [Jun 2025] [When Diffusion Models Memorize: Inductive Biases in Probability Flow of Minimum-Norm Shallow Neural Nets](https://arxiv.org/abs/2506.19031) (ICML 2025)
 
-[Jun 2025] [Generative Modeling of Weights: Generalization or Memorization?](https://arxiv.org/abs/2506.07998)
+[Jun 2025] [Generative Modeling of Weights: Generalization or Memorization?](https://arxiv.org/abs/2506.07998) (CVPR 2026)
 
 [Aug 2025] [On the Edge of Memorization in Diffusion Models](https://arxiv.org/abs/2508.17689) (NeurIPS 2025)
 
@@ -61,7 +61,7 @@
 
 [Jan 2026] [Statistical Physics of Generative Diffusion](https://tesidottorato.depositolegale.it/handle/20.500.14242/355870) (PhD Thesis, Bocconi 2026)
 
-[Jan 2026] [Smoothing the Score Function for Generalization in Diffusion Models: An Optimization-based Explanation Framework](https://arxiv.org/abs/2601.19285)
+[Jan 2026] [Smoothing the Score Function for Generalization in Diffusion Models: An Optimization-based Explanation Framework](https://arxiv.org/abs/2601.19285) (CVPR 2026)
 
 [Feb 2026] [Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models](https://arxiv.org/abs/2602.17846)
 
@@ -79,7 +79,7 @@
 
 [Jun 2024] [Understanding Hallucinations in Diffusion Models through Mode Interpolation](https://arxiv.org/abs/2406.09358) (NeurIPS 2024)
 
-### Low Dimensional Structure
+### Low-dimensional Structure
 
 [Feb 2023] [Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data](https://arxiv.org/abs/2302.07194) (ICML 2023)
 
@@ -115,6 +115,8 @@
 
 ### Analytical Solution
 
+[May 2023] [High-dimensional Asymptotics of Denoising Autoencoders](https://arxiv.org/abs/2305.11041) (NeurIPS 2023)
+
 [Oct 2023] [Closed-Form Diffusion Models](https://arxiv.org/abs/2310.12395) (TMLR 2025)
 
 [Oct 2024] [Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure](https://arxiv.org/abs/2410.24060) (NeurIPS 2024) 
@@ -148,7 +150,7 @@
 
 [Feb 2024] [Optimal Score Estimation via Empirical Bayes Smoothing](https://arxiv.org/abs/2402.07747) (COLT 2024)
 
-[Apr 2024] [Learning Mixtures of Gaussians Using Diffusion Models](https://arxiv.org/abs/2404.18869)
+[Apr 2024] [Learning Mixtures of Gaussians Using Diffusion Models](https://arxiv.org/abs/2404.18869) (COLT 2025)
 
 [Aug 2024] [A Sharp Convergence Theory for the Probability Flow ODEs of Diffusion Models](https://arxiv.org/abs/2408.02320)
 
@@ -165,6 +167,10 @@
 [Jan 2024] [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://arxiv.org/abs/2401.15604) (ICLR 2024)
 
 [Jun 2024] [Evaluating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2406.12839) (NeurIPS 2024)
+
+[Jan 2025] [A solvable model of learning generative diffusion: theory and insights](https://arxiv.org/abs/2501.03937) (NeurIPS 2025)
+
+[Feb 2025] [Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization](https://arxiv.org/abs/2502.03435) (COLT 2025)
 
 [Feb 2025] [Denoising Score Matching with Random Features: Insights on Diffusion Models from Precise Learning Curves](https://arxiv.org/abs/2502.00336) (AISTATS 2026)
 
@@ -204,7 +210,7 @@
 
 [Oct 2023] [Detecting, Explaining, and Mitigating Memorization in Diffusion Models](https://openreview.net/forum?id=84n3UwkH7b) (ICLR 2024)
 
-[Oct 2023] [On Memorization in Diffusion Models](https://arxiv.org/abs/2310.05264) (TMLR 2025) 
+[Oct 2023] [On Memorization in Diffusion Models](https://arxiv.org/abs/2310.02664) (TMLR 2025) 
 
 [Oct 2024] [A Geometric Framework for Understanding Memorization in Generative Models](https://arxiv.org/abs/2411.00113) (ICLR 2025)
 
