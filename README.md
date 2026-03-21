@@ -21,9 +21,20 @@
 
 ## Position \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/position.bib)\]
 
-[Mar 2025] [Generalization of Diffusion Models: Principles, Theory, and Implications](https://www.siam.org/publications/siam-news/articles/generalization-of-diffusion-models-principles-theory-and-implications/) (SIAM News 2025)
+[Mar 2025] [Generalization of Diffusion Models: Principles, Theory, and Implications](https://www.siam.org/publications/siam-news/articles/generalization-of-diffusion-models-principles-theory-and-implications/) (SIAM News 2025) <details><summary>[BibTex]</summary>
 
-## Memorization to Generalization
+```bibtex
+@article{zhang2025generalization,
+  title={Generalization of diffusion models: Principles, theory, and implications},
+  author={Zhang, Huijie and Wang, Peng and Chen, Siyi and Zhang, Zekai and Qu, Qing},
+  journal={SIAM News},
+  year={2025}
+}
+```
+
+</details>
+
+## Memorization to Generalization \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/memorization_to_generalization.bib)\]
 
 [Jun 2023] [Diffusion Probabilistic Models Generalize when They Fail to Memorize](https://openreview.net/forum?id=shciCbSk9h#all) (ICMLW 2023) 
 
@@ -43,7 +54,7 @@
 
 [May 2025] [Understanding Generalization in Diffusion Distillation via Probability Flow Distance](https://arxiv.org/abs/2505.20123)
 
-[May 2025] [Memorization to Generalization: Emergence of Diffusion Models from Associative Memory](https://arxiv.org/abs/2505.21777)
+[May 2025] [Memorization to Generalization: Emergence of Diffusion Models from Associative Memory](https://arxiv.org/abs/2505.21777) (NeurIPSW 2024)
 
 [Jun 2025] [Rethinking Memorization–Generalization Trade-Off in Generative Models](https://openreview.net/forum?id=JIMZsqE8bA) (ICMLW 2025)
 
@@ -73,7 +84,7 @@
 
 ## Generalization
 
-### Empirical Observation
+### Empirical Observation \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/empirical_observation.bib)\]
 
 [May 2023] [On the Generalization of Diffusion Model](https://arxiv.org/abs/2305.14712)
 
@@ -81,7 +92,7 @@
 
 [Oct 2024] [On Inductive Biases That Enable Generalization of Diffusion Transformers](https://arxiv.org/abs/2410.21273) (NeurIPS 2025)
 
-### Low-dimensional Structure
+### Low-dimensional Structure \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/low_dimensional_structure.bib)\]
 
 [Feb 2023] [Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data](https://arxiv.org/abs/2302.07194) (ICML 2023)
 
@@ -109,15 +120,13 @@
 
 [Mar 2026] [Generalization Properties of Score-Matching Diffusion Models for Intrinsically Low-Dimensional Data](https://arxiv.org/abs/2603.03700)
 
-### Representation Learning
+### Representation Learning \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/representation_learning.bib)\]
 
 [Feb 2025] [Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://arxiv.org/abs/2502.05743) (NeurIPS 2025)
 
 [Dec 2025] [Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963) (ICLR 2026) 
 
-### Analytical Solution
-
-[May 2023] [High-dimensional Asymptotics of Denoising Autoencoders](https://arxiv.org/abs/2305.11041) (NeurIPS 2023)
+### Analytical Solution \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/analytical_solution.bib)\]
 
 [Oct 2023] [Closed-Form Diffusion Models](https://arxiv.org/abs/2310.12395) (TMLR 2025)
 
@@ -140,9 +149,11 @@
 [Oct 2025] [Selective Underfitting in Diffusion Models](https://arxiv.org/abs/2510.01378)
 
 
-### Distribution Learning Theory
+### Distribution Learning Theory \[[BibTex](https://raw.githubusercontent.com/huijieZH/Awesome-Diffusion-Models-Memorization-Generalization/main/bib/distribution_learning_theory.bib)\]
 
 [Mar 2023] [Diffusion Models are Minimax Optimal Distribution Estimators](https://arxiv.org/abs/2303.01861) (ICML 2023)
+
+[May 2023] [High-dimensional Asymptotics of Denoising Autoencoders](https://arxiv.org/abs/2305.11041) (NeurIPS 2023)
 
 [Jul 2023] [Learning Mixtures of Gaussians Using the DDPM Objective](https://arxiv.org/abs/2307.01178) (NeurIPS 2023)
 
