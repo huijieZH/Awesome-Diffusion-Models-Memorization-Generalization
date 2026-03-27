@@ -229,6 +229,20 @@ url={https://openreview.net/forum?id=WD2CKUrxmx}
 
 </details>
 
+[Jun 2025] [On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity](https://arxiv.org/abs/2506.03719) (NeurIPS 2025) <details><summary>[BibTex]</summary>
+
+```bibtex
+@inproceedings{bertrand2025closed,
+  title={On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity},
+  author={Bertrand, Quentin and Gagneux, Anne and Massias, Mathurin and Emonet, R{\'e}mi},
+  booktitle={NeurIPS 2025},
+  year={2025}
+  url={https://openreview.net/forum?id=kVz9uvqUna}
+}
+```
+
+</details>
+
 [Aug 2025] [On the Edge of Memorization in Diffusion Models](https://arxiv.org/abs/2508.17689) (NeurIPS 2025) <details><summary>[BibTex]</summary>
 
 ```bibtex
